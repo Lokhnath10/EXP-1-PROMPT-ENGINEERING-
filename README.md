@@ -18,6 +18,9 @@ Generative AI impact of scaling in LLMs.
 
 4.Record outputs and write the report.
 
+## Prompt:
+generate the report for the generative AI and Large Language model
+
 ## Output
 [Generative.AI.report.pdf](https://github.com/user-attachments/files/22017988/Generative.AI.report.pdf)
 
